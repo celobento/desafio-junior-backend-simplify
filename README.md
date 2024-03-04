@@ -1,4 +1,4 @@
-# Desafio sistema de gerenciamento de tarefas (To-Do List)
+# Desafio sistema de gerenciamento de tarefas (To-Do List) - in Rails by celobento26
 Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Júnior Backend Liferay da Simplify
 
 ## Descrição
